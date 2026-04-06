@@ -1,4 +1,4 @@
-# 🚀 Resume AI Genius
+# 🚀 AI Powered Resume & Job Matcher
 
 An AI-powered web application that helps users **analyze resumes, match jobs, and prepare for interviews** using modern web technologies and AI integration.
 
